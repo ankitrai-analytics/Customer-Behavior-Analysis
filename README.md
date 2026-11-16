@@ -43,7 +43,7 @@ An end-to-end data analytics workflow was followed using Python, SQL, and Power 
 - `03_Python_Data_Cleaning.ipynb` – Python data cleaning notebook.
 - `04_SQL_Analysis.sql` – SQL business questions and queries.
 - `05_Customer_Behavior_Dashboard.pbix` – Power BI dashboard.
-- `06_Dashboard_Screenshot.png` – Dashboard preview.
+- `06_Dashboard.png` – Dashboard preview.
 
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow, combining data cleaning, SQL-based analysis, and interactive visualization to explore customer purchasing behavior and generate business insights.
