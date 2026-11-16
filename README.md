@@ -38,12 +38,13 @@ An end-to-end data analytics workflow was followed using Python, SQL, and Power 
 - Interactive slicers for Gender, Category, Subscription Status, and Shipping Type
 
 ## Project Files
-- `01_Raw_Dataset.csv` – Original dataset.
-- `02_Cleaned_Dataset.csv` – Cleaned dataset.
-- `03_Python_Data_Cleaning.ipynb` – Python data cleaning notebook.
-- `04_SQL_Analysis.sql` – SQL business questions and queries.
-- `05_Customer_Behavior_Dashboard.pbix` – Power BI dashboard.
-- `06_Dashboard.png` – Dashboard preview.
+- `Raw_Dataset.csv` – Original dataset.
+- `Cleaned_Dataset.csv` – Cleaned dataset after Python preprocessing.
+- `Python_Data_Cleaning.ipynb` – Python data cleaning notebook.
+- `SQL_Analysis.sql` – SQL business questions and queries.
+- `Customer_Behavior_Dashboard.pbix` – Interactive Power BI dashboard.
+- `Dashboard.png` – Dashboard screenshot.
+- `README.md` – Project documentation.
 
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow, combining data cleaning, SQL-based analysis, and interactive visualization to explore customer purchasing behavior and generate business insights.
